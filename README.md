@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nmszn" alt="nmszn" /></a> </p>
 
-- 🔭 I’m currently working on [Amperio](amperio.com)
+- 🔭 I’m currently working on [Amperio]([amperio.com](https://amperio.com/))
 
 - 📫 How to reach me **tomasz.jureczkin@gmail.com**
 
