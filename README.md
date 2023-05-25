@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tomasz</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
+<h4 align="center"> Currently working on Gitlab </h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nmszn" alt="nmszn" /></a> </p>
 
